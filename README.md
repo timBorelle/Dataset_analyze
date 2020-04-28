@@ -4,5 +4,13 @@
 
 Dataset from https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
-Student_Performance
-> script_LR.R
+### Student_Performance
+
+#### First script
+``` script_LR.R ```
+
+Prediction rate ~0.84
+
+#### Improved script
+
+Prediction rate ~0.94
