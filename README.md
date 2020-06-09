@@ -17,3 +17,21 @@ Prediction rate ~0.84
 #### Improved script
 
 Prediction rate ~0.94
+
+
+## Logistic Regression exemple
+
+### Titanic
+
+Dataset from https://www.kaggle.com/c/titanic
+
+Study case : Predicting survived/dead people
+
+#### First script
+``` script_LogisticRegression.R ```
+
+Prediction rate ~0,84
+
+#### Improved script
+
+Prediction rate ~0.
